@@ -1,0 +1,30 @@
+
+
+/* General */
+html {
+  font-size: 11px;
+}
+
+.container img {
+  display: block;
+  width: 85%;
+  margin: auto;
+}
+
+/* Index */
+.hero {
+  height: 150px;
+  padding-top: 60px;
+  text-align: center;
+}
+
+.lead {
+  font-size: 2.1rem;
+  font-weight: 200;
+  color: #999;
+}
+
+/* Context */
+.table-of-contents li {
+  list-style: none;
+}
