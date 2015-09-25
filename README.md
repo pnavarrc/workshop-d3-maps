@@ -16,3 +16,5 @@ Alongside Pablo Navarro Castillo (author of the book [Mastering D3.js](http://ww
 - Creating a star map
 
 This workshop is intended for beginners to D3 with basic understanding of HTML, CSS, and some programming experience (JavaScript or otherwise). Participants are required to bring a computer with a code editor installed (Sublime Text), a modern web browser (Chrome, Safari or Firefox), and (optional) a static web server.
+
+_Release 0.1.0_
