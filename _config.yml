@@ -1,0 +1,26 @@
+# Jekyll Configuration
+# --------------------
+
+# General
+title:       Creating Interactive Maps with D3
+author:      Pablo Navarro Castillo
+email:       pnavarrc@gmail.com
+
+# Paths
+destination: ./dist
+baseurl:     /workshop-d3-maps
+
+exclude:
+  - bower_components
+  - bower.json
+  - dist
+
+# Build Settings
+safe:        true
+markdown:    kramdown
+permalink:   pretty
+
+kramdown:
+  input:     GFM
+
+highlighter: pygments

@@ -1,0 +1,21 @@
+{
+  "name": "workshop-d3-maps",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pnavarrc/workshop-d3-maps",
+  "authors": [
+    "Pablo Navarro Castillo <pnavarrc@gmail.com>"
+  ],
+  "description": "Creating Interactive Maps with D3",
+  "keywords": [
+    "d3",
+    "maps"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
