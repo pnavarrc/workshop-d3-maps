@@ -33,10 +33,14 @@ When the projection changes the shapes on changes of scale or position, we will 
 
 ![Block: Zooming and Rotating]({{ site.baseurl }}/img/map-reprojecting.png)
 
+Learn more:
+
+- [Improved rotation by Jason Davies](https://www.jasondavies.com/maps/rotate/)
+
 ## Using Canvas
 
  If we don’t need the DOM (to bind events, for instance), it might be a good idea to use [canvas](http://diveintohtml5.info/canvas.html) instead to draw the map. Fortunately, the `d3.geo.path` method allows to draw on canvas as well as on SVG.
 
 [Block: Using Canvas](http://bl.ocks.org/pnavarrc/43dd75fb3693588c99ff)
 
-![Using Canvas]({{ site.baseurl }}/img/map-canvas.png)
+<img class="image-60" src="{{ site.baseurl }}/img/map-canvas.png" alt="Using Canvas"/>
