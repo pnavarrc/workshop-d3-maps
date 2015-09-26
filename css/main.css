@@ -11,6 +11,10 @@ html {
   margin: auto;
 }
 
+.container img.image-60 {
+  width: 60%;
+}
+
 /* Index */
 .hero {
   height: 150px;
@@ -27,4 +31,28 @@ html {
 /* Context */
 .table-of-contents li {
   list-style: none;
+}
+
+/* Page */
+.header {
+  border-bottom: solid 1px #eee;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.header a {
+  text-decoration: none;
+  margin-left: 5px;
+  color: #444;
+  font-weight: bold;
+  font-variant: small-caps;
+
+}
+
+.header .right-side {
+  text-align: right;
+}
+
+.content {
+  padding-top: 40px;
 }
