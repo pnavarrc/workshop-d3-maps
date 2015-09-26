@@ -5,14 +5,30 @@ html {
   font-size: 11px;
 }
 
+body {
+  padding-bottom: 200px;
+}
+
 .container img {
   display: block;
   width: 85%;
   margin: auto;
 }
 
+.container img.image-40 {
+  width: 40%;
+}
+
 .container img.image-60 {
   width: 60%;
+}
+
+.container img.image-80 {
+  width: 80%;
+}
+
+.cols-image {
+  text-align: center;
 }
 
 /* Index */

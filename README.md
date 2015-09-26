@@ -23,4 +23,4 @@ This workshop is intended for beginners to D3 with basic understanding of HTML, 
 
 [MIT](LICENSE)
 
-_Release 0.1.2_
+_Release 0.1.3_
