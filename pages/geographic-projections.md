@@ -163,3 +163,9 @@ Other than the projections, D3 provides tools to compute attributes of geographi
 [Block: Countries by Size](http://bl.ocks.org/pnavarrc/12e05466d99b99dbee85)
 
 ![Countries by Size]({{ site.baseurl }}/img/country-sizes.png)
+
+## More Examples
+
+- [Maps with TopoJSON](http://bl.ocks.org/pnavarrc/600f1fd88198e0a727e7)
+- [Square Countries](http://bl.ocks.org/pnavarrc/14ed098d4072be2715db)
+- [Automatic Label Placement](http://bl.ocks.org/pnavarrc/5913636)
