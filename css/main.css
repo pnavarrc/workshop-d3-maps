@@ -33,9 +33,12 @@ body {
 
 /* Index */
 .hero {
-  height: 150px;
-  padding-top: 60px;
+  padding-top: 30px;
   text-align: center;
+}
+
+.hero h1 {
+  font-size: 4.5rem;
 }
 
 .lead {
