@@ -4,6 +4,11 @@ _Workshop [The Graphical Web 2015](https://www.graphicalweb.org/2015) — Pittsb
 
 [Creating Interactive Maps with D3](http://pnavarrc.github.io/workshop-d3-maps/)
 
+
+![Pittsburgh](img/pittsburgh-stamen.png)
+
+_Pittsburgh, PA [tiles from Stamen Design](http://maps.stamen.com/toner/#14/40.4443/-79.9929)_
+
 ## Overview
 
 One of the most interesting applications of D3 is creating interactive, map-based data visualizations. In this workshop, you’ll learn how to obtain, transform, and manipulate geographical data with D3 by creating two applications: an interactive map-based visualization and a star map.
@@ -23,4 +28,4 @@ This workshop is intended for beginners to D3 with basic understanding of HTML, 
 
 [MIT](LICENSE)
 
-_Release 0.1.6_
+_Release 0.1.7_
